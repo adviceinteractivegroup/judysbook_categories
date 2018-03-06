@@ -1,0 +1,19 @@
+{
+  "name": "judysbook_categories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "categories.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adviceinteractivegroup/judysbook_categories.git"
+  },
+  "author": "Advice Interactive Group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adviceinteractivegroup/judysbook_categories/issues"
+  },
+  "homepage": "https://github.com/adviceinteractivegroup/judysbook_categories#readme"
+}
